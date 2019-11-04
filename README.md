@@ -1,4 +1,6 @@
 # weathervane
+Weathervane is a VueJS project that demonstrates a simple app that retireves the current weather from an api and 
+displays it for the user. 
 
 ## Project setup
 ```
